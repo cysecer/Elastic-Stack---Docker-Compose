@@ -23,7 +23,7 @@ To start the Elastic Stack:
 
 ```bash
 docker compose up
-
+```
 💡 Make sure Docker Desktop is running before executing the command.
 
 📈 Accessing Kibana
