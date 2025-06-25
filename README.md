@@ -74,6 +74,7 @@ When adding a new **Elastic Agent** to Fleet:
 ```text
 .
 ├── docker-compose.yml
+├── .env
 └── README.md
 ```
 ---
